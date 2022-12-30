@@ -3,5 +3,3 @@ Hello from IntelliJ
 another line from GitHub
 
 with this line I fixed bug #1
-
-This is a new file for review
